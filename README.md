@@ -1,4 +1,4 @@
-# My Conky
+# My Personal Conky Config
 
 ![Screenshot of desktop](https://github.com/ThePotato10/desktop-conky/blob/main/Screenshot.png?raw=true)
 
