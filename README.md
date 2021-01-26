@@ -1,6 +1,6 @@
 # My Conky
 
-![Screenshot of desktop](https://github.com/ThePotato10/desktop-conky/blob/main/Screenshot?raw=true)
+![Screenshot of desktop](https://github.com/ThePotato10/desktop-conky/blob/main/Screenshot.png?raw=true)
 
 
 Two conky.conf files I'm using to create my desktop
